@@ -2,6 +2,8 @@
 
 This project demonstrates a simple implementation of an Inverse Kinematics (IK) solver using the SFML (Simple and Fast Multimedia Library) for rendering. The IK solver is used to control a chain of linked segments (often referred to as a "robot arm" or "kinematic chain") to reach a target position in a 2D space.
 
+![Inverse Kinematics Preview](https://github.com/lazycodebaker/Forward-Kinematics/blob/main/inverse_kinematics.gif)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)

@@ -36,8 +36,8 @@ The project uses **SFML** for rendering the kinematic chain and the target posit
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/inverse-kinematics-solver.git
-   cd inverse-kinematics-solver
+   git clone https://github.com/lazycodebaker/Forward-Kinematics
+   cd Forward-Kinematics
    ```
 
 2. **Install Dependencies**:
